@@ -33,7 +33,7 @@ data <- data.frame(
   titles = head(titles, 5),
   dates = head(dates, 5),
   links = head(links, 5),
-  contents = head(contents, 5),
+  contents = head(tulisan, 5),
   stringsAsFactors=FALSE
 )
 
