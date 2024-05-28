@@ -24,4 +24,4 @@ jobs:
         install.packages("mongolite")
       shell: Rscript {0} 
     - name: Scrape Data tempo
-      run: Rscript BitcoinBTC.R
+      run: Rscript scraping metro kompas.R
