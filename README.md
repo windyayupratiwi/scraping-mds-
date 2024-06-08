@@ -1,3 +1,7 @@
+
+
+<div align="center">
+ 
  # From Web to Data: Scraping Tempo News for Actionable Insights
  <p align="center">
  
