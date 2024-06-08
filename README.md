@@ -1,4 +1,9 @@
+<p align="center" width="80%">
+    <img width="60%" src="https://www.tempo.id/images/logo_TMG.png">
+</p>
 
+<div align="center">
+    
 
 <div align="center">
  
