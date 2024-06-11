@@ -43,7 +43,7 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan Tempo.co
 Fitur Unggulan Tempo.co
  </p>   
  <p align="justify">
-# 📰 Berita Terkini
+📰 Berita Terkini
 <p align="justify">
 Dapatkan berita terbaru dari berbagai bidang, mulai dari politik, ekonomi, olahraga, hingga gaya hidup. Semua disajikan dengan cepat dan akurat.
 </p>
