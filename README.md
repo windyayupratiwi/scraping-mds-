@@ -35,7 +35,7 @@
 <p align="justify">
 ## 📰 : Tentang
 
-**Tempo.co: Sumber Berita Terpercaya dan Terkini**
+# **Tempo.co: Sumber Berita Terpercaya dan Terkini**
 <p align="justify">
 Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan Tempo.co. Sebagai salah satu portal berita terkemuka di Indonesia, Tempo.co menyajikan informasi terkini dengan kualitas jurnalistik yang tinggi.
 </p>
