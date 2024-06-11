@@ -60,6 +60,10 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan **Tempo.
 
 </p>
 
+## :open_book:Deskripsi Project 
+
+
+
 # :books: Dokument
 Berikut adalah salah satu contoh dokumen di MongoDB untuk Tempo.co news  :
 ```mongodb
@@ -76,7 +80,7 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Tempo.co news  :
 <table>
   <tr>
     <td align="center"><a href="https://github.com/windyayupratiwi"><img src="image/windy ayu pratiwi.jpg" width="100px;" alt=""/><br /><sub><b>Windy Ayu Pratiwi </b></sub></a><br /><a
-<br /><sub><b>G1501231029 </b></sub></a><br /><a href="https://github.com/satyawikananda/berita-indo-api/commits?author=galanggg" title="Code">💻</a> <a href="#ideas-galanggg" title="Ideas, Planning, & Feedback">🤔</a></td>
+<br /><sub><b>G1501231029 </b></sub></a>
   </tr>
 </table>
 
