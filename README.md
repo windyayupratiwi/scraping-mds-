@@ -33,7 +33,7 @@
 </div>
 </p>
 <p align="justify">
-# 📰 : Tentang
+## :newspaper_roll: Tentang
 
 # **Tempo.co: Sumber Berita Terpercaya dan Terkini**
 <p align="justify">
