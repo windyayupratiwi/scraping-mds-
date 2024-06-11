@@ -1,5 +1,8 @@
 <p align="center" width="80%">
-    <img width="60%" src="https://assets.kompasiana.com/items/album/2021/11/07/fokus-tempo-co-61877abeffe7b52c68139df2.jpg?t=o&v=770">
+## TEMPO.CO SCRAPING
+</p>
+<p align="center" width="80%">
+    <img width="75%" src="https://images-tm.tempo.co/all/2022/06/21/803408/803408_720.jpg">
 </p>
 
 <div align="center">
@@ -70,4 +73,15 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Tempo.co news  :
 ```
 
 # :astronaut: Pengembang
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/windyayupratiwi"><img src="https://avatars.githubusercontent.com/u/21099312?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Windy Ayu Pratiwi </b></sub></a><br /><a
+<br /><sub><b>G1501231029 </b></sub></a><br /><a href="https://github.com/satyawikananda/berita-indo-api/commits?author=galanggg" title="Code">💻</a> <a href="#ideas-galanggg" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
 . [windy ayu Pratiwi](https://github.com/windyayupratiwi/) (G1501231029)
+
+---
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)
+
