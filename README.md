@@ -12,9 +12,6 @@
  
 [![scrape_tempo](https://github.com/windyayupratiwi/scraping-mds-/actions/workflows/main.yml/badge.svg)]
 
-# Tempo News Scraping
-[![scrape_hashtag](https://github.com/rizkyardhani/airlinequality_scraping/actions/workflows/main.yml/badge.svg)](https://github.com/rizkyardhani/airlinequality_scraping/actions/workflows/main.yml)
-
 <p align="center">
     
 🗞️: Menu
