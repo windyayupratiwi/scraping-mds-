@@ -42,7 +42,7 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan Tempo.co
 < p align="justify">
 
     📰 <strong>Berita Terkini:</strong> Dapatkan berita terbaru dari berbagai bidang, mulai dari politik, ekonomi, olahraga, hingga gaya hidup. Semua disajikan dengan cepat dan akurat.
-<br>
+</p>
     🕵️ **Investigasi Mendalam** : Nikmati laporan investigasi mendalam yang mengungkap fakta di balik peristiwa penting. Tim jurnalis Tempo.co dikenal dengan integritas dan keahlian mereka dalam menyajikan berita investigatif.
 <br>
     📊 <strong>Analisis dan Opini:</strong> Baca analisis dan opini dari para pakar dan jurnalis berpengalaman. Dapatkan wawasan mendalam tentang isu-isu terkini yang mempengaruhi kehidupan Anda.
