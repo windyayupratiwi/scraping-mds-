@@ -12,7 +12,30 @@
  
 [![scrape_tempo](https://github.com/windyayupratiwi/scraping-mds-/actions/workflows/main.yml/badge.svg)]
 
-##📰: Tentang
+# Airline Quality Scraping
+[![scrape_hashtag](https://github.com/rizkyardhani/airlinequality_scraping/actions/workflows/main.yml/badge.svg)](https://github.com/rizkyardhani/airlinequality_scraping/actions/workflows/main.yml)
+
+<p align="center">
+    
+# :world_map: Menu
+
+</p>
+
+[Tentang](#airplane-tentang)
+•
+[Deskripsi Project](#writing_hand-deskripsi-project)
+•
+[Dokumen](#books-dokumen)
+•
+[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
+•
+[PPT](#computer-PPT)
+•
+[Pengembang](#panda_face-pengembang)
+
+</div>
+
+📰: Tentang
 
 **Tempo.co: Sumber Berita Terpercaya dan Terkini**
 
