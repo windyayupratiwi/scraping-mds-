@@ -75,11 +75,11 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Tempo.co news  :
 # :astronaut: Pengembang
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/windyayupratiwi"><img src="https://avatars.githubusercontent.com/u/21099312?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Windy Ayu Pratiwi </b></sub></a><br /><a
+    <td align="center"><a href="https://github.com/windyayupratiwi"><img src="image/windy ayu pratiwi.jpg" width="100px;" alt=""/><br /><sub><b>Windy Ayu Pratiwi </b></sub></a><br /><a
 <br /><sub><b>G1501231029 </b></sub></a><br /><a href="https://github.com/satyawikananda/berita-indo-api/commits?author=galanggg" title="Code">💻</a> <a href="#ideas-galanggg" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
-. [windy ayu Pratiwi](https://github.com/windyayupratiwi/) (G1501231029)
+
 
 ---
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
