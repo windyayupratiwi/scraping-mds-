@@ -56,7 +56,7 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan **Tempo.
 
 </p>
 
-## :open_book:= Project 
+## :open_book: Project 
 <p align="center" width="60%">
   <img width="400" height="150" src="https://d1.awsstatic.com/events/aws-hosted-events/2020/APAC/case-studies/case-study-logo-tempo.2612452bcc9f9a753bc3ce4e991f359223b96adf.jpg">
  </p>
@@ -98,12 +98,15 @@ Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
 </table>
 
 # :camera_flash: dokumentasi
-<p align="center" width="60%">
+<p align="center" width="55%">
   <img width="160" src="https://images-tm.tempo.co/mbm/cover/2637/cover_5_Februari_2023_-_Akrobat_Kedua_Tiga_Periode.jpeg">
    <img width="160" src="https://s3-ap-southeast-1.amazonaws.com/ebook-previews/60/156513/1.jpg">
     <img width="160" src="https://images-tm.tempo.co/mbm/cover/2529/cover_Edisi_23-01-2021_-Bancakan_Bansos_Banteng.jpg">
-
+     <img width="160" src="https://images-tm.tempo.co/mbm/cover/2412/cover_Edisi_22-12-2018_-_Balenggang_Pete-Pete.jpg">
+     <img width="160" src="https://images-tm.tempo.co/mbm/cover/2431/cover_Edisi_27-04-2019_-_Dalam_Waswas_Setrum_Sofyan.jpg">
+</p>
 ---
+
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)
 
