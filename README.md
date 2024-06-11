@@ -43,13 +43,13 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan Tempo.co
 Fitur Unggulan Tempo.co
  </p>   
  <p align="justify">
-📰 ** Berita Terkini ** : Dapatkan berita terbaru dari berbagai bidang, mulai dari politik, ekonomi, olahraga, hingga gaya hidup. Semua disajikan dengan cepat dan akurat.
+📰 **Berita Terkini** : Dapatkan berita terbaru dari berbagai bidang, mulai dari politik, ekonomi, olahraga, hingga gaya hidup. Semua disajikan dengan cepat dan akurat.
 </p>
  <p align="justify">
-🕵️ ** Investigasi Mendalam ** : Nikmati laporan investigasi mendalam yang mengungkap fakta di balik peristiwa penting. Tim jurnalis Tempo.co dikenal dengan integritas dan keahlian mereka dalam menyajikan berita investigatif.
+🕵️ **Investigasi Mendalam** : Nikmati laporan investigasi mendalam yang mengungkap fakta di balik peristiwa penting. Tim jurnalis Tempo.co dikenal dengan integritas dan keahlian mereka dalam menyajikan berita investigatif.
 </p>   
  <p align="justify">
-📊 ** Analisis dan Opini** : Baca analisis dan opini dari para pakar dan jurnalis berpengalaman. Dapatkan wawasan mendalam tentang isu-isu terkini yang mempengaruhi kehidupan Anda.
+📊 **Analisis dan Opini** : Baca analisis dan opini dari para pakar dan jurnalis berpengalaman. Dapatkan wawasan mendalam tentang isu-isu terkini yang mempengaruhi kehidupan Anda.
 </p>   
  <p align="justify">
 🎥 **Konten Multimedia** : Selain artikel berita, nikmati juga konten multimedia seperti video, foto, dan infografis yang memperkaya pengalaman membaca Anda.
