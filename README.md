@@ -43,24 +43,28 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan Tempo.co
 Fitur Unggulan Tempo.co
  </p>   
  <p align="justify">
-** 📰 Berita Terkini**
+# 📰 Berita Terkini
 <p align="justify">
 Dapatkan berita terbaru dari berbagai bidang, mulai dari politik, ekonomi, olahraga, hingga gaya hidup. Semua disajikan dengan cepat dan akurat.
 </p>
  <p align="justify">
 🕵️ Investigasi Mendalam
+<p align="justify">
 Nikmati laporan investigasi mendalam yang mengungkap fakta di balik peristiwa penting. Tim jurnalis Tempo.co dikenal dengan integritas dan keahlian mereka dalam menyajikan berita investigatif.
 </p>   
  <p align="justify">
 📊 Analisis dan Opini
+<p align="justify">
 Baca analisis dan opini dari para pakar dan jurnalis berpengalaman. Dapatkan wawasan mendalam tentang isu-isu terkini yang mempengaruhi kehidupan Anda.
 </p>   
  <p align="justify">
 🎥 Konten Multimedia
+<p align="justify">
 Selain artikel berita, nikmati juga konten multimedia seperti video, foto, dan infografis yang memperkaya pengalaman membaca Anda.
 </p>   
  <p align="justify">
-🌐 Akses Mudah di Perangkat Redmi Anda
+🌐 Akses Mudah di Perangkat Anda
+<p align="justify">
 Dengan antarmuka yang ramah pengguna, Anda bisa dengan mudah mengakses Tempo.co melalui browser atau aplikasi di perangkat Redmi Anda. Selalu terhubung dengan berita terkini kapan saja dan di mana saja.
 </p>   
- <p align="justify">
+
