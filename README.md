@@ -32,7 +32,7 @@
 
 </div>
 <p align="justify">
-# 📰 : Tentang
+    # 📰 : Tentang
 
 **Tempo.co: Sumber Berita Terpercaya dan Terkini**
 <p align="justify">
