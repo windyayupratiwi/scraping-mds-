@@ -16,7 +16,7 @@
 
 [Tentang](#newspaper-Tentang)
 •
-[Deskripsi Project](#open_book-Deskripsi-Project)
+[Deskripsi Project](#open_book-Project)
 •
 [Dokument](#books-Dokument)
 •
@@ -56,7 +56,7 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan **Tempo.
 
 </p>
 
-## :open_book:Deskripsi Project 
+## :open_book:= Project 
 <p align="center" width="60%">
   <img width="400" height="150" src="https://d1.awsstatic.com/events/aws-hosted-events/2020/APAC/case-studies/case-study-logo-tempo.2612452bcc9f9a753bc3ce4e991f359223b96adf.jpg">
  </p>
