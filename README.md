@@ -15,21 +15,21 @@
 
 </p>
 
-[Tentang](##newspaper-Tentang)
+[Tentang](#:newspaper:Tentang)
 •
 [Deskripsi Project](#writing_hand-deskripsi-project)
 •
-[Dokumen](#books-dokumen)
+[Dokument](#books-dokument)
 •
 [Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
 •
 [PPT](#computer-PPT)
 •
-[Pengembang](#panda_face-pengembang)
+[Pengembang](##panda_face-pengembang)
 
 </div>
 
-## :newspaper: Tentang
+# :newspaper: Tentang
 
 # Tempo.co: Sumber Berita Terpercaya dan Terkini
 
@@ -57,5 +57,17 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan **Tempo.
 
 </p>
 
-## :panda_face: Pengembang
+# :books: Dokument
+Berikut adalah salah satu contoh dokumen di MongoDB untuk Tempo.co news  :
+```mongodb
+{
+  "_id": {"$oid": "6667ae9f5e55e4253a0fc695" },
+  "time_scraped": { "$date": "2024-06-11T01:55:40.713Z" },
+  "titles": "Fakta Penting Polwan Briptu FN Bakar Suami di Mojokerto, Uang Habis Karena Judi Online",
+  "dates": "17 jam lalu",
+  "links": "https://metro.tempo.co/read/1878123/fakta-penting-polwan-briptu-fn-bakar-suami-di-mojokerto-uang-habis-karena-judi-online",
+}
+```
+
+# :astronaut: Pengembang
 . [windy ayu Pratiwi](https://github.com/windyayupratiwi/) (G1501231029)
