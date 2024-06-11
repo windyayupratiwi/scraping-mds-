@@ -43,7 +43,7 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan Tempo.co
 Fitur Unggulan Tempo.co
  </p>   
  <p align="justify">
-📰 **Berita Terkini** : Dapatkan berita terbaru dari berbagai bidang, mulai dari politik, ekonomi, olahraga, hingga gaya hidup. Semua disajikan dengan cepat dan akurat.
+**📰 Berita Terkini** : Dapatkan berita terbaru dari berbagai bidang, mulai dari politik, ekonomi, olahraga, hingga gaya hidup. Semua disajikan dengan cepat dan akurat.
 </p>
  <p align="justify">
 🕵️ **Investigasi Mendalam** : Nikmati laporan investigasi mendalam yang mengungkap fakta di balik peristiwa penting. Tim jurnalis Tempo.co dikenal dengan integritas dan keahlian mereka dalam menyajikan berita investigatif.
@@ -58,7 +58,5 @@ Fitur Unggulan Tempo.co
 🌐 **Akses Mudah di Perangkat Anda** : Dengan antarmuka yang ramah pengguna, Anda bisa dengan mudah mengakses Tempo.co melalui browser atau aplikasi di perangkat Redmi Anda. Selalu terhubung dengan berita terkini kapan saja dan di mana saja.
 </p> 
 
-## cara bold
-1. **abd rahman** :
-   abede adalah mahasissa **STA 23 IPB University**
+
 
