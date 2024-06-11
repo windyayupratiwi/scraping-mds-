@@ -1,8 +1,8 @@
 <div align="center">
 <h1>TEMPO.CO SCRAPING</h1>
  Tempo.co: Sumber Berita Terpercaya dan Terkini
-<p align="center" width="80%">
-    <img width="75%" src="https://images-tm.tempo.co/all/2022/06/21/803408/803408_720.jpg">
+<p align="center" width="200%">
+    <img width="75%" src="https://imi.remotivi.or.id/assets/images/header-tempo.png">
 </p>
  
  # From Web to Data: Scraping Tempo News for Actionable Insights
@@ -11,20 +11,22 @@
 [![scrape_tempo](https://github.com/windyayupratiwi/scraping-mds-/actions/workflows/main.yml/badge.svg)]
   
 ## 🗞️:Tampilan Menu
-</div>
+
 </p>
 
-[Tentang](#:newspaper:Tentang)
+[Tentang](#newspaper-Tentang)
 •
-[Deskripsi Project](#writing_hand-deskripsi-project)
+[Deskripsi Project](#open_book-Deskripsi-Project)
 •
-[Dokument](#books-dokument)
+[Dokument](#books-Dokument)
 •
 [Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
 •
 [PPT](#computer-PPT)
 •
-[Pengembang](##panda_face-pengembang)
+[Pengembang](#astronaut-Pengembang)
+•
+[Dokumentasi](#camera_flash-dokumentasi)
 
 </div>
 
@@ -56,12 +58,20 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan **Tempo.
 
 ## :open_book:Deskripsi Project 
 <p align="center" width="60%">
-  <img width="00" height="150" src="https://d1.awsstatic.com/events/aws-hosted-events/2020/APAC/case-studies/case-study-logo-tempo.2612452bcc9f9a753bc3ce4e991f359223b96adf.jpg">
-</p>
-
-<div align="center">
-<p align="justify">     
+  <img width="400" height="150" src="https://d1.awsstatic.com/events/aws-hosted-events/2020/APAC/case-studies/case-study-logo-tempo.2612452bcc9f9a753bc3ce4e991f359223b96adf.jpg">
+ </p>
+<p align="justify"> 
 Scraping berita dari situs https://metro.tempo.co/ dilakukan untuk mengumpulkan dan menganalisis informasi terkini mengenai peristiwa-peristiwa penting di wilayah metropolitan. Dengan mengakses data langsung dari Tempo.co, project ini bertujuan untuk menyediakan wawasan mendalam tentang dinamika perkotaan, mulai dari berita politik, sosial, kriminal, hingga perkembangan infrastruktur. Data yang dikumpulkan akan digunakan untuk membangun alat analisis yang dapat membantu memahami tren berita, mengidentifikasi isu-isu utama, dan memberikan gambaran yang lebih komprehensif tentang kehidupan kota. Proyek ini menawarkan peluang untuk menciptakan aplikasi berita yang lebih personalisasi, dashboard analitik yang interaktif, dan sumber informasi yang handal bagi para peneliti, jurnalis, dan masyarakat umum. Dengan mengintegrasikan teknologi scraping, analisis data, dan visualisasi yang menarik, project ini dilakukan untuk meningkatkan pemahaman dan akses terhadap informasi yang relevan dan penting di dunia metropolitan.
+      
+ data yang diambil pada project scraping meliputi beberapa poin kunci berikut : 
+ </p>
+ <p align="justify"> 
+  
++ 🪪 id: Identifikasi unik dari setiap entri berita yang di-scrape, digunakan untuk membedakan setiap berita dalam basis data.
++ 📝 titles: Judul berita yang memberikan gambaran singkat tentang isi artikel. Judul ini biasanya dirancang untuk menarik perhatian pembaca dan menyampaikan poin utama dari berita tersebut.
++ 📅 dates: Waktu yang menunjukkan kapan berita tersebut dipublikasikan atau terakhir diperbarui. Format waktu ini bisa berupa "X jam lalu" atau "X hari lalu" yang menunjukkan seberapa baru berita tersebut.
++ 🔗links:URL lengkap yang mengarah langsung ke halaman berita di situs Tempo.co. Link ini memungkinkan pengguna untuk membaca artikel lengkap dan memperoleh konteks lebih lanjut.
+
 </p>
 
 # :books: Dokument
@@ -76,15 +86,22 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Tempo.co news  :
   "links": "https://metro.tempo.co/read/1878123/fakta-penting-polwan-briptu-fn-bakar-suami-di-mojokerto-uang-habis-karena-judi-online",
 }
 ```
+## :computer: PPT
+Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
 
 # :astronaut: Pengembang
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/windyayupratiwi"><img src="image/windy ayu pratiwi.jpg" width="100px;" alt=""/><br /><sub><b>Windy Ayu Pratiwi </b></sub></a><br /><a
+    <td align="center"><a href="https://github.com/windyayupratiwi"><img src="image/windy ayu pratiwi.jpg" width="115px;" alt=""/><br /><sub><b>Windy Ayu Pratiwi </b></sub></a><br /><a
 <br /><sub><b>G1501231029 </b></sub></a>
   </tr>
 </table>
 
+# :camera_flash: dokumentasi
+<p align="center" width="60%">
+  <img width="160" src="https://images-tm.tempo.co/mbm/cover/2637/cover_5_Februari_2023_-_Akrobat_Kedua_Tiga_Periode.jpeg">
+   <img width="160" src="https://s3-ap-southeast-1.amazonaws.com/ebook-previews/60/156513/1.jpg">
+    <img width="160" src="https://images-tm.tempo.co/mbm/cover/2529/cover_Edisi_23-01-2021_-Bancakan_Bansos_Banteng.jpg">
 
 ---
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
