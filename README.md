@@ -1,21 +1,17 @@
-<p align="center" width="80%">
-## TEMPO.CO SCRAPING
-</p>
+<div align="center">
+<h1>TEMPO.CO SCRAPING</h1>
+ Tempo.co: Sumber Berita Terpercaya dan Terkini
 <p align="center" width="80%">
     <img width="75%" src="https://images-tm.tempo.co/all/2022/06/21/803408/803408_720.jpg">
 </p>
-
-<div align="center">
  
  # From Web to Data: Scraping Tempo News for Actionable Insights
- <p align="center">
+
  
 [![scrape_tempo](https://github.com/windyayupratiwi/scraping-mds-/actions/workflows/main.yml/badge.svg)]
-
-<p align="center">
   
-## 🗞️: Menu
-
+## 🗞️:Tampilan Menu
+</div>
 </p>
 
 [Tentang](#:newspaper:Tentang)
@@ -33,8 +29,6 @@
 </div>
 
 # :newspaper: Tentang
-
-# Tempo.co: Sumber Berita Terpercaya dan Terkini
 
 Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan **Tempo.co**. Sebagai salah satu portal berita terkemuka di Indonesia, **Tempo.co** menyajikan informasi terkini dengan kualitas jurnalistik yang tinggi.
 
@@ -61,11 +55,18 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan **Tempo.
 </p>
 
 ## :open_book:Deskripsi Project 
+<p align="center" width="60%">
+  <img width="00" height="150" src="https://d1.awsstatic.com/events/aws-hosted-events/2020/APAC/case-studies/case-study-logo-tempo.2612452bcc9f9a753bc3ce4e991f359223b96adf.jpg">
+</p>
 
-
+<div align="center">
+<p align="justify">     
+Scraping berita dari situs https://metro.tempo.co/ dilakukan untuk mengumpulkan dan menganalisis informasi terkini mengenai peristiwa-peristiwa penting di wilayah metropolitan. Dengan mengakses data langsung dari Tempo.co, project ini bertujuan untuk menyediakan wawasan mendalam tentang dinamika perkotaan, mulai dari berita politik, sosial, kriminal, hingga perkembangan infrastruktur. Data yang dikumpulkan akan digunakan untuk membangun alat analisis yang dapat membantu memahami tren berita, mengidentifikasi isu-isu utama, dan memberikan gambaran yang lebih komprehensif tentang kehidupan kota. Proyek ini menawarkan peluang untuk menciptakan aplikasi berita yang lebih personalisasi, dashboard analitik yang interaktif, dan sumber informasi yang handal bagi para peneliti, jurnalis, dan masyarakat umum. Dengan mengintegrasikan teknologi scraping, analisis data, dan visualisasi yang menarik, project ini dilakukan untuk meningkatkan pemahaman dan akses terhadap informasi yang relevan dan penting di dunia metropolitan.
+</p>
 
 # :books: Dokument
 Berikut adalah salah satu contoh dokumen di MongoDB untuk Tempo.co news  :
+
 ```mongodb
 {
   "_id": {"$oid": "6667ae9f5e55e4253a0fc695" },
