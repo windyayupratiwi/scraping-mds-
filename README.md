@@ -37,7 +37,7 @@
 **Tempo.co: Sumber Berita Terpercaya dan Terkini**
 <p align="justify">
 Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan Tempo.co. Sebagai salah satu portal berita terkemuka di Indonesia, Tempo.co menyajikan informasi terkini dengan kualitas jurnalistik yang tinggi.
-    </p>
+</p>
 <p align="justify">
 Fitur Unggulan Tempo.co
 <p align="justify">
@@ -55,4 +55,5 @@ Selain artikel berita, nikmati juga konten multimedia seperti video, foto, dan i
 
 🌐 Akses Mudah di Perangkat Anda
 Dengan antarmuka yang ramah pengguna, Anda bisa dengan mudah mengakses Tempo.co melalui browser atau aplikasi di perangkat Redmi Anda. Selalu terhubung dengan berita terkini kapan saja dan di mana saja.
+</p>
 </p>
