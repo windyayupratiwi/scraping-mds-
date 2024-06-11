@@ -31,6 +31,7 @@
 [Pengembang](#panda_face-pengembang)
 
 </div>
+</p>
 <p align="justify">
     # 📰 : Tentang
 
