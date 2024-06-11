@@ -1,5 +1,5 @@
 <p align="center" width="80%">
-    <img width="60%" src="https://www.cimsafkunri.org/wp-content/uploads/2023/05/Logo-tempo.co-bicara-fakta-2.png">
+    <img width="60%" src="https://assets.kompasiana.com/items/album/2021/11/07/fokus-tempo-co-61877abeffe7b52c68139df2.jpg?t=o&v=770">
 </p>
 
 <div align="center">
