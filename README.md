@@ -33,7 +33,7 @@
 </div>
 </p>
 <p align="justify">
-    # 📰 : Tentang
+## 📰 : Tentang
 
 **Tempo.co: Sumber Berita Terpercaya dan Terkini**
 <p align="justify">
@@ -48,12 +48,17 @@ Dapatkan berita terbaru dari berbagai bidang, mulai dari politik, ekonomi, olahr
 </p>
 🕵️ Investigasi Mendalam
 Nikmati laporan investigasi mendalam yang mengungkap fakta di balik peristiwa penting. Tim jurnalis Tempo.co dikenal dengan integritas dan keahlian mereka dalam menyajikan berita investigatif.
-
+</p>   
+ <p align="justify">
 📊 Analisis dan Opini
 Baca analisis dan opini dari para pakar dan jurnalis berpengalaman. Dapatkan wawasan mendalam tentang isu-isu terkini yang mempengaruhi kehidupan Anda.
-
+</p>   
+ <p align="justify">
 🎥 Konten Multimedia
 Selain artikel berita, nikmati juga konten multimedia seperti video, foto, dan infografis yang memperkaya pengalaman membaca Anda.
-
+</p>   
+ <p align="justify">
 🌐 Akses Mudah di Perangkat Redmi Anda
 Dengan antarmuka yang ramah pengguna, Anda bisa dengan mudah mengakses Tempo.co melalui browser atau aplikasi di perangkat Redmi Anda. Selalu terhubung dengan berita terkini kapan saja dan di mana saja.
+</p>   
+ <p align="justify">
