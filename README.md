@@ -38,28 +38,11 @@
 <p align="justify">
 Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan Tempo.co. Sebagai salah satu portal berita terkemuka di Indonesia, Tempo.co menyajikan informasi terkini dengan kualitas jurnalistik yang tinggi.
 </p>
-<p align="justify">
-Fitur Unggulan Tempo.co
-</p>
-<p align="justify">
-📰 Berita Terkini
-Dapatkan berita terbaru dari berbagai bidang, mulai dari politik, ekonomi, olahraga, hingga gaya hidup. Semua disajikan dengan cepat dan akurat.
-<p align="justify">
-</p>
-🕵️ Investigasi Mendalam
-Nikmati laporan investigasi mendalam yang mengungkap fakta di balik peristiwa penting. Tim jurnalis Tempo.co dikenal dengan integritas dan keahlian mereka dalam menyajikan berita investigatif.
-<p align="justify">
-</p>
-📊 Analisis dan Opini
-Baca analisis dan opini dari para pakar dan jurnalis berpengalaman. Dapatkan wawasan mendalam tentang isu-isu terkini yang mempengaruhi kehidupan Anda.
-<p align="justify">
-</p>
-🎥 Konten Multimedia
-Selain artikel berita, nikmati juga konten multimedia seperti video, foto, dan infografis yang memperkaya pengalaman membaca Anda.
-<p align="justify">
-</p>
-<p align="justify">
-🌐 Akses Mudah di Perangkat Anda
-Dengan antarmuka yang ramah pengguna, Anda bisa dengan mudah mengakses Tempo.co melalui browser atau aplikasi di perangkat Redmi Anda. Selalu terhubung dengan berita terkini kapan saja dan di mana saja.
-</p>
-</p>
+ <h2>Fitur Unggulan Tempo.co</h2>
+        <ul>
+ <li>📰 <strong>Berita Terkini:</strong> Dapatkan berita terbaru dari berbagai bidang, mulai dari politik, ekonomi, olahraga, hingga gaya hidup. Semua disajikan dengan cepat dan akurat.</li>
+<li>🕵️ <strong>Investigasi Mendalam:</strong> Nikmati laporan investigasi mendalam yang mengungkap fakta di balik peristiwa penting. Tim jurnalis Tempo.co dikenal dengan integritas dan keahlian mereka dalam menyajikan berita investigatif.</li>
+<li>📊 <strong>Analisis dan Opini:</strong> Baca analisis dan opini dari para pakar dan jurnalis berpengalaman. Dapatkan wawasan mendalam tentang isu-isu terkini yang mempengaruhi kehidupan Anda.</li>
+<li>🎥 <strong>Konten Multimedia:</strong> Selain artikel berita, nikmati juga konten multimedia seperti video, foto, dan infografis yang memperkaya pengalaman membaca Anda.</li>
+<li>🌐 <strong>Akses Mudah di Perangkat Redmi Anda:</strong> Dengan antarmuka yang ramah pengguna, Anda bisa dengan mudah mengakses Tempo.co melalui browser atau aplikasi di perangkat Redmi Anda. Selalu terhubung dengan berita terkini kapan saja dan di mana saja.</li>
+        </ul>
