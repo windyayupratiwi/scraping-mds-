@@ -58,7 +58,7 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan **Tempo.
 
 ## :open_book: Project 
 <p align="center" width="60%">
-    <img width="40%" src="image/pngegg.png">
+    <img width="40%" src="image/news .png">
 
  </p>
 <p align="justify"> 
@@ -66,14 +66,14 @@ Scraping berita dari situs https://metro.tempo.co/ dilakukan untuk mengumpulkan 
       
  data yang diambil pada project scraping meliputi beberapa poin kunci berikut : 
  </p>
- <p align="justify"> 
+ <div align="justify"> 
   
 + 🪪 id: Identifikasi unik dari setiap entri berita yang di-scrape, digunakan untuk membedakan setiap berita dalam basis data.
 + 📝 titles: Judul berita yang memberikan gambaran singkat tentang isi artikel. Judul ini biasanya dirancang untuk menarik perhatian pembaca dan menyampaikan poin utama dari berita tersebut.
 + 📅 dates: Waktu yang menunjukkan kapan berita tersebut dipublikasikan atau terakhir diperbarui. Format waktu ini bisa berupa "X jam lalu" atau "X hari lalu" yang menunjukkan seberapa baru berita tersebut.
 + 🔗links:URL lengkap yang mengarah langsung ke halaman berita di situs Tempo.co. Link ini memungkinkan pengguna untuk membaca artikel lengkap dan memperoleh konteks lebih lanjut.
 
-</p>
+</div>
 
 # :books: Dokument
 Berikut adalah salah satu contoh dokumen di MongoDB untuk Tempo.co news  :
