@@ -58,8 +58,7 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan **Tempo.
 
 ## :open_book: Project 
 <p align="center" width="60%">
-  <img width="400" height="150" src="![image](image/pngegg.png)">
-    <img width="75%" src="image/pngegg.png">
+    <img width="40%" src="image/pngegg.png">
 
  </p>
 <p align="justify"> 
@@ -107,8 +106,8 @@ Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
      <img width="160" src="https://images-tm.tempo.co/mbm/cover/2412/cover_Edisi_22-12-2018_-_Balenggang_Pete-Pete.jpg">
      <img width="160" src="https://images-tm.tempo.co/mbm/cover/2431/cover_Edisi_27-04-2019_-_Dalam_Waswas_Setrum_Sofyan.jpg">
 </p>
----
 
+---------------
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)
 
