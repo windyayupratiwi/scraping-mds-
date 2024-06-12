@@ -58,7 +58,8 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan **Tempo.
 
 ## :open_book: Project 
 <p align="center" width="60%">
-  <img width="400" height="150" src="https://d1.awsstatic.com/events/aws-hosted-events/2020/APAC/case-studies/case-study-logo-tempo.2612452bcc9f9a753bc3ce4e991f359223b96adf.jpg">
+  <img width="400" height="150" src="![image](https://e7.pngegg.com/pngimages/1024/110/png-clipart-news-casting-microphones-illustration-fake-news-world-news-newspaper-media-others-miscellaneous-microphone.png)
+">
  </p>
 <p align="justify"> 
 Scraping berita dari situs https://metro.tempo.co/ dilakukan untuk mengumpulkan dan menganalisis informasi terkini mengenai peristiwa-peristiwa penting di wilayah metropolitan. Dengan mengakses data langsung dari Tempo.co, project ini bertujuan untuk menyediakan wawasan mendalam tentang dinamika perkotaan, mulai dari berita politik, sosial, kriminal, hingga perkembangan infrastruktur. Data yang dikumpulkan akan digunakan untuk membangun alat analisis yang dapat membantu memahami tren berita, mengidentifikasi isu-isu utama, dan memberikan gambaran yang lebih komprehensif tentang kehidupan kota. Proyek ini menawarkan peluang untuk menciptakan aplikasi berita yang lebih personalisasi, dashboard analitik yang interaktif, dan sumber informasi yang handal bagi para peneliti, jurnalis, dan masyarakat umum. Dengan mengintegrasikan teknologi scraping, analisis data, dan visualisasi yang menarik, project ini dilakukan untuk meningkatkan pemahaman dan akses terhadap informasi yang relevan dan penting di dunia metropolitan.
