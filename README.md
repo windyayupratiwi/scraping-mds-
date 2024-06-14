@@ -88,7 +88,8 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Tempo.co news  :
 }
 ```
 ## :computer: PPT
-Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : (https://github.com/windyayupratiwi/scraping-mds-/blob/main/"scraping)
+Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : 
+(https://github.com/windyayupratiwi/scraping-mds-/blob/main/ppt%20scraping%20tempo.co%20praktikum%20MDS_compressed.pdf)
 
 # :astronaut: Pengembang
 <table>
