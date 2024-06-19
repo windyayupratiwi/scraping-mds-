@@ -22,6 +22,8 @@
 •
 [Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
 •
+[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
+•
 [PPT](#computer-PPT)
 •
 [Pengembang](#astronaut-Pengembang)
@@ -87,9 +89,13 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Tempo.co news  :
   "links": "https://metro.tempo.co/read/1878123/fakta-penting-polwan-briptu-fn-bakar-suami-di-mojokerto-uang-habis-karena-judi-online",
 }
 ```
+## :bar_chart: Data Scraping Analysis
+Berikut merupakan link RPubs data scraping analysis : 
++ [RPubs Airline Data Scraping and Visualization](https://rpubs.com/windyayu/VISUALISASI-DATA-TEMPO-SCRAPING)
+  
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : 
-(https://github.com/windyayupratiwi/scraping-mds-/blob/main/ppt%20scraping%20tempo.co%20praktikum%20MDS_compressed.pdf)
+ + (https://github.com/windyayupratiwi/scraping-mds-/blob/main/ppt%20scraping%20tempo.co%20praktikum%20MDS_compressed.pdf)
 
 # :astronaut: Pengembang
 <table>
