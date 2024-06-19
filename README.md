@@ -91,11 +91,11 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Tempo.co news  :
 ```
 ## :bar_chart: Data Scraping Analysis
 Berikut merupakan link RPubs data scraping analysis : 
-+ [RPubs Airline Data Scraping and Visualization](https://rpubs.com/windyayu/VISUALISASI-DATA-TEMPO-SCRAPING)
++ [RPubs tempo Data Scraping and Visualization](https://rpubs.com/windyayu/VISUALISASI-DATA-TEMPO-SCRAPING)
   
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : 
- + (https://github.com/windyayupratiwi/scraping-mds-/blob/main/ppt%20scraping%20tempo.co%20praktikum%20MDS_compressed.pdf)
+ + [PPT tempo.co news Data Scraping and Visualization](https://github.com/windyayupratiwi/scraping-mds-/blob/main/ppt%20scraping%20tempo.co%20praktikum%20MDS_compressed.pdf)
 
 # :astronaut: Pengembang
 <table>
