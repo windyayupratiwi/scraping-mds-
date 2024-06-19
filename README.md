@@ -20,9 +20,7 @@
 •
 [Dokument](#books-Dokument)
 •
-[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
-•
-[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
+[Visualisasi Data Scraping](#bar_chart-Data-Scraping-Analysis)
 •
 [PPT](#computer-PPT)
 •
