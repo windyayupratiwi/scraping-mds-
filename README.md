@@ -40,9 +40,10 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan **Tempo.
 + 📊 **Analisis dan Opini:** Baca analisis dan opini dari para pakar dan jurnalis berpengalaman. Dapatkan wawasan mendalam tentang isu-isu terkini yang mempengaruhi kehidupan Anda.
 + 🎥 **Konten Multimedia:** Selain artikel berita, nikmati juga konten multimedia seperti video, foto, dan infografis yang memperkaya pengalaman membaca Anda.
 + 🌐 **Akses Mudah di Perangkat Redmi Anda:** Dengan antarmuka yang ramah pengguna, Anda bisa dengan mudah mengakses **Tempo.co** melalui browser atau aplikasi di perangkat Redmi Anda. Selalu terhubung dengan berita terkini kapan saja dan di mana saja.
-</div>
-## Mengapa Memilih Tempo.co?
 
+
+## Mengapa Memilih Tempo.co?
+</div>
  <p align="justify">   
      
 + **Akurat dan Terpercaya:** Berita yang disajikan oleh jurnalis berpengalaman dengan standar jurnalistik yang tinggi.
