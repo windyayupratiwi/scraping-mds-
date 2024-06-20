@@ -95,7 +95,7 @@ Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
 # :astronaut: Pengembang
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/windyayupratiwi"><img src="image/windy ayu pratiwi.jpg" width="115px;" alt=""/><br /><sub><b>Windy Ayu Pratiwi </b></sub></a><br /><a
+    <td align="center"><a href="https://github.com/windyayupratiwi"><img src="image/windy ayu pratiwi.jpg" width="125px;" alt=""/><br /><sub><b>Windy Ayu Pratiwi </b></sub></a><br /><a
 <br /><sub><b>G1501231029 </b></sub></a>
   </tr>
 </table>
